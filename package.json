@@ -11,6 +11,9 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
+    "chalk": "^2.4.2",
+    "each-async": "^1.1.1",
+    "indent-string": "^4.0.0",
     "jstransformer-marked": "^1.0.3",
     "pug": "^2.0.3",
     "pug-loader": "^2.4.0",
@@ -26,7 +29,6 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.26.0",
-    "chalk": "^2.4.2",
     "connect-history-api-fallback": "^1.4.0",
     "copy-webpack-plugin": "^4.1.1",
     "css-loader": "^0.28.7",
