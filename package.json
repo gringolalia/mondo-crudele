@@ -1,13 +1,14 @@
 {
-  "name": "a-vuetifyjs-init-pwa-project",
+  "name": "powerful-winds-against",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Vue PWA for Today",
   "author": "gringolalia@gmail.com <gringolalia@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "jstransformer-marked": "^1.0.3",
