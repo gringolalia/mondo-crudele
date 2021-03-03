@@ -15,7 +15,7 @@
     "each-async": "^1.1.1",
     "indent-string": "^4.0.0",
     "jstransformer-marked": "^1.0.3",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
